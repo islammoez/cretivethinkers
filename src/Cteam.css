@@ -1,0 +1,45 @@
+.m-top{
+    margin: 0 auto;
+
+    height: 500px;
+    width: 700px;
+    position: relative;
+    background-color: white;
+    margin-top: -60px;
+    z-index: 1;
+}
+.para{
+    width: 450px;
+   display: inline-block;
+   line-height: 2.2;
+   font-family: 'Open Sans',sans-serif;
+   
+}
+
+.button{
+    width: 200px;
+    height: 60px;
+    font-family: 'Open Sans',sans-serif;
+    color: white;
+}
+
+.button:hover {
+    background-color: #532EE7; 
+    
+}
+
+.m-top h1{
+    font-size: 70px;
+    font-weight: bold;
+
+}
+.m-top a{
+    text-decoration: none;
+    border-bottom: 3px solid yellow;
+    color: black;
+    
+}
+
+.m-top a:hover{
+    border-bottom: 3px solid #532EE7;
+}
